@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "1c3b1526f8b94c5afdd12a4f",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-0b9d169771a64750e505197e",
+  "title": "DLK",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0b9d169771a64750e505197e",
+      "a": "DLK",
+      "b": "clash verge机场推荐",
+      "entity": "DLK",
+      "brand": "DLK",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0b15ea2132e07a636c21c40855067cf2481526d46290f824f13ab4fcb68d5ab6",
+      "content": {
+        "primary_entity": "DLK",
+        "keyword1": "DLK",
+        "keyword2": "clash verge机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "DLK 订阅可导入 Clash Verge、Shadowrocket、v2rayN 等常见客户端，具体适配情况以客户端版本为准。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "挑选适合你设备数量和流量需求的套餐，前往购买页完成订阅。",
+          "AI_CLOSING_TITLE": "开始体验 DLK",
+          "AI_DESCRIPTION": "，主打多设备兼容与流媒体解锁，提供基础版、旗舰版、团队版三档选择，月付最低 ¥15，年付更划算。订阅通过 Clash Verge、Shadowrocket、v2rayN 等客户端导入使用，节点覆盖普通线路与 IPLC 专线，适合日常浏览、流媒体观看与游戏加速等场景。",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量额度与订阅周期，DLK 提供三档清晰可比的套餐选择。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备在线，适合轻度浏览与基础流媒体使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备在线，含 IPLC 专线游戏加速与 7x24 优先工单支持。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备在线，可定制企业路由并配备专属客户经理。",
+          "AI_FEATURE_TITLE_1": "轻度使用",
+          "AI_FEATURE_TITLE_2": "进阶体验",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "挑选套餐、确认设备适配、按客户端文档导入订阅即可使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "DLK 提供多档流量套餐与多设备支持，通过 Clash Verge 等客户端导入订阅即可访问流媒体、游戏加速与日常浏览服务。",
+          "AI_HERO_SUBTITLE": "多设备订阅，流畅加速",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月 100GB 支持 3 台设备；旗舰版 ¥35/月 300GB 支持 5 台设备含 IPLC 专线；团队版 ¥85/月 1000GB 支持 20 台设备。年付分别 ¥150、¥350、¥850，按需选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版之间选择套餐。",
+          "AI_STEP_TEXT_2": "确认所用设备与客户端版本是否符合 DLK 订阅导入要求。",
+          "AI_STEP_TEXT_3": "按照 Clash Verge、Shadowrocket 等客户端的文档说明导入订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "DLK 订阅加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。流量与设备数可按需升级。",
+          "AI_FAQ_ANSWER_2": "旗舰版和团队版可解锁原生流媒体，基础版提供基础流媒体解锁。不同节点线路覆盖范围不同，订阅后可在客户端内切换节点进行测试。",
+          "AI_FAQ_ANSWER_3": "支持 Windows、macOS、iOS、Android 等常见客户端。安装后导入订阅地址即可使用，订阅导入方式和配置步骤可参考各客户端文档。",
+          "AI_FAQ_ANSWER_4": "月付适合短期体验，年付折算后更划算。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用建议按年付。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由与专属客户经理服务，适合多设备协作和统一管理需求。可根据实际设备数量与带宽要求选择对应节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "DLK 三档套餐有哪些区别？",
+          "AI_FAQ_QUESTION_2": "流媒体解锁支持哪些节点？",
+          "AI_FAQ_QUESTION_3": "客户端支持哪些平台？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选择？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么情况使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e8d2eabe9f10cc1c27720e15b52f5845efcc34309e8c14098807388791a49688",
+    "sitemap.xml": "fc6410dc42dca3d1186fb566b1cc4239b814917ff1f21a35f85a9001e481d0a5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "7a342020780fdd5db35f0561e2c8e8c4178776966e6d9acad797002cab94f9e7"
+}
